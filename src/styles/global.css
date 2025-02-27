@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .bg-black-custom {
+        background-color: #202322;
+        /* Define tu color personalizado aquí */
+    }
+}
